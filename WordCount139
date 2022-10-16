@@ -1,6 +1,6 @@
 class Solution:
     
-    #94.04% runtime solution for LeetCode 139
+    #94.04% time complexity, 25.10% space complexity solution for LeetCode 139
     #https://leetcode.com/problems/word-break/
 
     def wordBreak(self, s: str, wordDict) -> bool:
